@@ -1,17 +1,17 @@
 body {
-  background-color: snow
+  background-color: gray;
 }
 
 h1 {
-  color: Darkslategray
+  color: Darkslategray;
 }
 
 #id {
   text-align: center;
-  color: Black
+  color: Black;
 }
 
 .class {
   font-weight: bold;
-  font-size: large
+  font-size: large;
 }
