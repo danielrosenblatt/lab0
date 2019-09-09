@@ -1,17 +1,37 @@
 body {
-  background-color: gray;
+  background-color: snow;
 }
 
 h1 {
   color: Darkslategray;
-}
-
-#id {
   text-align: center;
-  color: Black;
+  font-family: Times;
+  font-weight: bold;
 }
 
-.class {
-  font-weight: bold;
-  font-size: large;
+p {
+  color: Darkslategray;
+  text-align: center;
+  font-family: Times;
+}
+
+table {
+  text-align: center;
+  width: 30%;
+  margin-left: 35%;
+  margin-right: 35%;
+}
+
+th, td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+#mynotes {
+  font-style: italic;
+}
+
+.titleimage {
+  max-width: 100%;
+  height: auto;
 }
