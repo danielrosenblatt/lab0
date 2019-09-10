@@ -19,4 +19,5 @@ whitney.html - This is an HTML page that provides an image of the Whitney as wel
 
 whitney.jpg - image borrowed from http://www.artnews.com/2018/12/03/not-problem-whitney-vice-chair-responds-open-letter-calling-action/.
 
+
 I made my first (post-CS50) website! Woohoo!
